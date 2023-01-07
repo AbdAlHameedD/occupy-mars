@@ -28,6 +28,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
+
+    <title>Occupy Mars</title>
 </head>
 
 
@@ -184,7 +186,7 @@
     </div>
 
     <!-- Footer -->
-    <div class="w-100 footer bottom-0">
+    <div class="w-100 footer position-absolute bottom-0">
         <div class="container h-100">
             <div class="d-flex align-items-center h-100">
                 <h6 class="w-fit-content m-auto josefin-font"><strong>Of Course I Still Love You</strong> &copy; 2023
